@@ -1,2 +1,6 @@
+![App logo](./images/ParticelJS_logo.svg)
+
+
 # ParticelJS
-Particle generator JS project
+
+Particle generator app created in Vanilla JavaScript
