@@ -1,6 +1,6 @@
 {
   "name": "particeljs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Particle effect app created in JavaScript",
   "main": "index.js",
   "scripts": {
